@@ -7,11 +7,21 @@ body {
 h1 {
   font-family: "Sacramento", cursive;
   font-size: 5rem;
+  padding-top: 50px;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF
+}
+
+h3,
+a {
+  color: #11999E;
 }
 
 .top-container {
   background-color: #d9d7f1;
-  padding-top: 50px;
 }
 
 .top-cloud {
