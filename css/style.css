@@ -4,15 +4,22 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+.subtitle {
+  font-size: 1.5rem;
+}
+
 h1 {
   font-family: "Sacramento", cursive;
   font-size: 5rem;
-  padding-top: 50px;
+  /* padding-top: 50px; */
   color: #66BFBF;
+  line-height: 4;
+  margin-top: 0;
 }
 
 h2 {
-  color: #66BFBF
+  color: #66BFBF;
+  font-weight: normal;
 }
 
 h3,
@@ -25,8 +32,8 @@ a {
 }
 
 .top-cloud {
-  position: relative;
-  right: 15%;
+  position: absolute;
+  right: 10%;
   top: 10%;
 }
 
