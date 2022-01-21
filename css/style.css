@@ -38,9 +38,9 @@ a {
 }
 
 .bottom-cloud {
-  position: relative;
+  position: absolute;
   left: 15%;
-  margin-bottom: 20%;
+  bottom: 20%;
 }
 
 .myImage {
