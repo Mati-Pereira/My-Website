@@ -28,6 +28,12 @@ a {
   color: #11999E;
 }
 
+.info {
+  margin: auto 100px;
+  line-height: 2;
+  font-size: 1.25rem;
+}
+
 .top-container {
   background-color: #d9d7f1;
 }
@@ -63,4 +69,13 @@ a {
 .icon {
   float: left;
   margin: 5px;
+}
+
+.contact-me,
+.bottom-container {
+  line-height: 2;
+}
+
+strong {
+  color: #11999E;
 }
