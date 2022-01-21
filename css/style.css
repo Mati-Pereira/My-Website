@@ -19,7 +19,8 @@ h1 {
 
 h2 {
   color: #66BFBF;
-  font-weight: normal;
+  font-weight: bold;
+  font-size: 2rem;
 }
 
 h3,
@@ -50,4 +51,16 @@ a {
 
 .mountain {
   max-width: 100%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.icon {
+  float: left;
+  margin: 5px;
 }
