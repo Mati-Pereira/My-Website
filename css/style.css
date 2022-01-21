@@ -28,6 +28,10 @@ a {
   color: #11999E;
 }
 
+.myImage {
+  margin-top: 2rem;
+}
+
 .info {
   margin: auto 100px;
   line-height: 2;
@@ -78,4 +82,8 @@ a {
 
 strong {
   color: #11999E;
+}
+
+.title-h2 {
+  margin-top: 3rem;
 }
