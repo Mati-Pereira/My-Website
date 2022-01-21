@@ -11,19 +11,19 @@ h1 {
 
 .top-container {
   background-color: #d9d7f1;
-  padding-top: 150px;
+  padding-top: 50px;
 }
 
 .top-cloud {
-  position: absolute;
+  position: relative;
   right: 15%;
   top: 10%;
 }
 
 .bottom-cloud {
-  position: absolute;
+  position: relative;
   left: 15%;
-  bottom: 55%;
+  margin-bottom: 40%;
 }
 
 .myImage {
