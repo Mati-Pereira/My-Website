@@ -6,23 +6,24 @@ body {
 
 h1 {
   font-family: "Sacramento", cursive;
+  font-size: 5rem;
 }
 
 .top-container {
   background-color: #d9d7f1;
-  padding-top: 200px;
+  padding-top: 150px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 100px;
+  right: 15%;
+  top: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 200px;
-  bottom: 500px;
+  left: 15%;
+  bottom: 55%;
 }
 
 .myImage {
@@ -31,5 +32,5 @@ h1 {
 }
 
 .mountain {
-  width: auto;
+  max-width: 100%;
 }
